@@ -1,4 +1,4 @@
-# PII-Generator
+# PII-Generator (BETA)
 Generate fake PII data for exfiltration exercises - Designed for use with Cobalt Strike's `execute-assembly`.
 
 ```
