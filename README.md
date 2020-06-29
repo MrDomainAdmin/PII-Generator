@@ -14,3 +14,8 @@ Usage:
   --type
     This is the type of PII to generate - This program only supports 'creditcard' and 'ssn' at release.
 
+```
+
+Credit Cards are generated using https://github.com/gustavofrizzo/CreditCardValidator and are luhn-valid
+
+Social Security Numbers are generated using a random number generator -> into the ###-##-#### format.
