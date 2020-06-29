@@ -19,3 +19,7 @@ Usage:
 Credit Cards are generated using https://github.com/gustavofrizzo/CreditCardValidator and are luhn-valid
 
 Social Security Numbers are generated using a random number generator -> into the ###-##-#### format.
+
+
+
+FSUtil.exe, a native windows tool, is used to generate the file. This tool ran a lot faster than all of the native C# writefile examples that I found.
